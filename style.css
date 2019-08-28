@@ -4,6 +4,9 @@ h1 {
 }
 
 nav a {
+  position: relative;
+  left: 280px;
+  right: 280px;
   text-align: center;
   background-color: #c4b897;
   padding-right: 10px;
