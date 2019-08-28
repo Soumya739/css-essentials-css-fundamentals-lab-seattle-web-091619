@@ -24,6 +24,8 @@ figcaption {
 }
 
 #featured-property p {
+  position: relative;
+  left:50px;
   width: 800px;
   
 }
