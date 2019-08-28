@@ -18,11 +18,15 @@ nav a {
 img {
   margin-left: auto;
   margin-right: auto;
-  width: 600px;
+  width: 900px;
 }
 
 figcaption {
   font-size: 12px;
+}
+
+#featured-property p {
+  width: 800px;
 }
 
 #details {
