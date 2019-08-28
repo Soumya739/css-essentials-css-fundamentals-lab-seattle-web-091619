@@ -39,3 +39,7 @@ figcaption {
   color: black;
   
 }
+
+div {
+  float: left;
+}
